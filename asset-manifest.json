@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Crio-Launch-March-2020-amartyachowdhury98/static/css/main.5db1380d.chunk.css",
-    "main.js": "/Crio-Launch-March-2020-amartyachowdhury98/static/js/main.99154e45.chunk.js",
-    "main.js.map": "/Crio-Launch-March-2020-amartyachowdhury98/static/js/main.99154e45.chunk.js.map",
+    "main.js": "/Crio-Launch-March-2020-amartyachowdhury98/static/js/main.d5bfc143.chunk.js",
+    "main.js.map": "/Crio-Launch-March-2020-amartyachowdhury98/static/js/main.d5bfc143.chunk.js.map",
     "runtime-main.js": "/Crio-Launch-March-2020-amartyachowdhury98/static/js/runtime-main.8d1e894f.js",
     "runtime-main.js.map": "/Crio-Launch-March-2020-amartyachowdhury98/static/js/runtime-main.8d1e894f.js.map",
     "static/css/2.57ddf7ad.chunk.css": "/Crio-Launch-March-2020-amartyachowdhury98/static/css/2.57ddf7ad.chunk.css",
     "static/js/2.5c5e16ef.chunk.js": "/Crio-Launch-March-2020-amartyachowdhury98/static/js/2.5c5e16ef.chunk.js",
     "static/js/2.5c5e16ef.chunk.js.map": "/Crio-Launch-March-2020-amartyachowdhury98/static/js/2.5c5e16ef.chunk.js.map",
     "index.html": "/Crio-Launch-March-2020-amartyachowdhury98/index.html",
-    "precache-manifest.a2aa93ad76a26355bf0f9e1c81985655.js": "/Crio-Launch-March-2020-amartyachowdhury98/precache-manifest.a2aa93ad76a26355bf0f9e1c81985655.js",
+    "precache-manifest.876bf6b474ec65de3983edeb377d101c.js": "/Crio-Launch-March-2020-amartyachowdhury98/precache-manifest.876bf6b474ec65de3983edeb377d101c.js",
     "service-worker.js": "/Crio-Launch-March-2020-amartyachowdhury98/service-worker.js",
     "static/css/2.57ddf7ad.chunk.css.map": "/Crio-Launch-March-2020-amartyachowdhury98/static/css/2.57ddf7ad.chunk.css.map",
     "static/css/main.5db1380d.chunk.css.map": "/Crio-Launch-March-2020-amartyachowdhury98/static/css/main.5db1380d.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.57ddf7ad.chunk.css",
     "static/js/2.5c5e16ef.chunk.js",
     "static/css/main.5db1380d.chunk.css",
-    "static/js/main.99154e45.chunk.js"
+    "static/js/main.d5bfc143.chunk.js"
   ]
 }
